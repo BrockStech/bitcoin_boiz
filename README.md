@@ -1,2 +1,1 @@
-# bitcoin_boiz
-Stechschulte Family Fantasy Football League
+# COLLUSION IS PROHIBITED
