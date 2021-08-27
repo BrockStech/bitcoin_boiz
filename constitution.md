@@ -28,7 +28,7 @@
 * Kicking
   * Field goal: 3 points + .1 point per year for every yard over 30 yards
     * Example: 42 yard field goal = 4.2 points 
-  * Extra point: 1 point
+  * PAT: 1 point
   * Missed field goal or PAT: -1 point
 
 ## Playoffs
