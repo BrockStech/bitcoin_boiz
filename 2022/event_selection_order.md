@@ -1,4 +1,4 @@
-# 2022 Cryptocurrency Selection Order
+# 2022 Draft Pick Selection Order
 1. Brock
 2. Joby
 3. James
