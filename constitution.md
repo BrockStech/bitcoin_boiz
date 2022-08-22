@@ -6,7 +6,7 @@
 * Cost: $25	
 
 ## Payout
-* First: $150 + $100 bonus from Sleeper
+* First: $150
 * Second: $50 
 * Regular Season Winner: $50	
 * Last: The league bum
@@ -38,7 +38,7 @@
 * Most points scored gets 6th place in playoffs (If they are not already in). 
 
 ## Draft Order
-* Results from yearly event (TBD each year) - 2022 cryptocurrency
+* Results from yearly event (TBD each year)
 * 7th, 8th, 5th, 6th, 3rd, 4th, 2nd, 1st, 9th, 10th) 
   * 1st pick gets first dibs in that year's event
   * The event results determines the draft order
