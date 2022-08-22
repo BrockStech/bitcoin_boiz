@@ -40,7 +40,7 @@
 ## Draft Order
 * Results from yearly event (TBD each year)
 * 7th, 8th, 5th, 6th, 3rd, 4th, 2nd, 1st, 9th, 10th) 
-  * 1st pick gets first dibs in that year's event
+  * 1st pick gets first dibs in that year's event (2022 DraftKings lineup)
   * The event results determines the draft order
 
 ## Schedule
