@@ -1,4 +1,4 @@
-# 2023 Draft Pick Selection Order
+# 2023 Draft Pick Order
 1. Eric
 2. Jimmy
 3. James
