@@ -8,4 +8,6 @@
 7. Rob
 8. Joby
 9. Luke
-10. Brock
+10. Peter
+11. Kenny
+12. Brock
