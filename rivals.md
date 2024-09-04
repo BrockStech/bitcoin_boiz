@@ -6,6 +6,6 @@ Jake | Matt
 Robert | Brock
 Joby | Eric
 Jimmy | Timmy
-Fighmasters | Luke
+James | Luke
 Peter | Jim
 
