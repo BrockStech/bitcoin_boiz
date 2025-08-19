@@ -38,10 +38,7 @@
 * Most points scored gets 6th place in playoffs (If they are not already in). 
 
 ## Draft Order
-* Results from yearly event (TBD each year)
-* 7th - 10th, 5th, 6th, 3rd, 4th, 2nd, 1st, 11th, 12th) 
-  * 1st pick gets first dibs in that year's event (2022 DraftKings lineup)
-  * The event results determines the draft order
+* Reigning champion decides how draft order is determined.
 
 ## Schedule
 * Everyone once (11 games)
